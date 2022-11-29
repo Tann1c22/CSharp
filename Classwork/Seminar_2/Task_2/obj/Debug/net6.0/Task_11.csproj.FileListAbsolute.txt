@@ -1,0 +1,15 @@
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.csproj.AssemblyReference.cache
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.AssemblyInfoInputs.cache
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.AssemblyInfo.cs
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.csproj.CoreCompileInputs.cache
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\bin\Debug\net6.0\Task_11.exe
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\bin\Debug\net6.0\Task_11.deps.json
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\bin\Debug\net6.0\Task_11.runtimeconfig.json
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\bin\Debug\net6.0\Task_11.dll
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\bin\Debug\net6.0\Task_11.pdb
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.dll
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\refint\Task_11.dll
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.pdb
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\Task_11.genruntimeconfig.cache
+C:\Users\iboro\OneDrive\Документы\geekbrains\CSharp\Classwork\Seminar_2\Task_11\obj\Debug\net6.0\ref\Task_11.dll
